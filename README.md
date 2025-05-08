@@ -49,8 +49,8 @@
 ![empd 3](https://github.com/user-attachments/assets/a46f4126-5519-4747-9286-7167d54299cb)
 
 
- Name:A.ABIRAMI
- Register Number:212224040010
+## Name:A.ABIRAMI
+## Register Number:212224040010
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
